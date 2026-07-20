@@ -1,7 +1,7 @@
 # Cybersecurity Analyst-Portfolio 
 
 # About Me.
-Aspiring Cybersecurity Analyst with a strong foundation in cybersecurity, Azure administration, and security operations. Skilled in SIEM monitoring, log analysis, incident investigation, and Kusto Query Language (KQL), with hands-on experience gained through Microsoft Learn, Microsoft Sentinel Labs, Splunk Labs, TryHackMe, and personal security projects. Passionate about continuous learning and helping organizations strengthen their security posture.
+Aspiring Cybersecurity Analyst with hands-on experience in threat detection, incident investigation, SIEM monitoring, Azure administration, and security fundamentals. Passionate about protecting cloud and on-premises environments through log analysis, security monitoring, identity and access management, and continuous learning. Currently expanding practical skills through Microsoft Learn, Microsoft Sentinel Labs, Splunk Labs, TryHackMe, and personal cybersecurity projects.
 
   ## Certifications & Learning
 
