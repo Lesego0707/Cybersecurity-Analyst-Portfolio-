@@ -9,13 +9,11 @@ Aspiring Cybersecurity Analyst with hands-on experience in threat detection, inc
 - CompTIA Security+ (SY0-701)
 
 ### ISC²
-- Certified in Cybersecurity (CC)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) - Exam 21 Oct 2026
+- Certified in Cybersecurity (CC) - Exam 6 Nov 2026
 
 ### Microsoft Certifications
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Applied Skills: Defend against Cyberthreats with Microsoft Defender XDR
+- Microsoft Certified: Azure Fundamentals (AZ-900) -Passed
 
 ### Cisco Networking Academy
 - Networking Basics
