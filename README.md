@@ -14,16 +14,13 @@ My goal is to contribute to a Security Operations Centre (SOC) by supporting thr
 
 ### Microsoft Certifications
 - Microsoft Certified: Azure Fundamentals (AZ-900) — Passed
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) — [Update exam result]
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) — [exam booked-25 Nov 2026]
 
 ### ISC2 Certifications
 - Certified in Cybersecurity (CC) — [Update exam result]
 
 ### Currently Studying
 - CompTIA Security+ (SY0-701)
-
-### Additional Technical Training
-- Cisco Networking Academy — Networking Basics
 
 ## Technical Skills
 
