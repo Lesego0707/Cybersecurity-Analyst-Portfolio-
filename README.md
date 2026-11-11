@@ -26,7 +26,6 @@ My goal is to contribute to a Security Operations Centre (SOC) by supporting thr
 
 ### Security Operations & Monitoring
 - Microsoft Sentinel
-- Splunk
 - Security Monitoring
 - Threat Detection
 - Incident Investigation
@@ -51,25 +50,26 @@ My goal is to contribute to a Security Operations Centre (SOC) by supporting thr
 - Indicators of Compromise (IOCs)
 - Email Authentication (SPF, DKIM and DMARC)
 - Threat Intelligence
-- VirusTotal
 
 ## Cybersecurity Projects
 
 ### 1. Phishing Email Analysis
 Investigated a simulated phishing email by examining email headers, authentication results, sender information, and indicators of compromise. Documented findings and analyst recommendations.
+## Link: https://github.com/Lesego0707/Phishing-Email-Analysis/tree/main/phishing-email-investigation
 
 ### 2. Wireshark Network Traffic Analysis
 Performed network traffic investigation using Wireshark and a malware-analysis PCAP exercise. Identified suspicious network activity, investigated endpoints, and used threat intelligence to support findings.
+## Link: https://github.com/Lesego0707/Network-Traffic-Analysis/tree/main
 
 ### 3. Home Network Topology Lab
 Designed and documented a basic home network topology, exploring network architecture, connectivity, and security considerations.
+## Link: https://github.com/Lesego0707/Home-Network-Topology-Lab
 
 ## Continuous Learning
 
 Actively developing cybersecurity skills through:
 - Microsoft Learn
 - Microsoft Sentinel Labs
-- Splunk Labs
 - TryHackMe
 - Practical cybersecurity investigations and GitHub projects
 
