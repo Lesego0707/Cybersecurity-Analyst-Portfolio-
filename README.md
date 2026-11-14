@@ -11,41 +11,41 @@ Currently developing practical capabilities in Microsoft Sentinel, Splunk, Micro
 My goal is to contribute to a Security Operations Centre (SOC) by supporting threat detection, security monitoring, incident triage, and response.
 
 ## Certifications & Professional Development
-## Certifications & Professional Development
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** – Certified
 - **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)** – Exam scheduled for 19 November 2026
 - **ISC2 Certified in Cybersecurity (CC)** – Planned
 - CompTIA Security+ (SY0-701) - Planned
 
-## Technical Skills
 
-### Security Operations & Monitoring
-- Microsoft Sentinel
-- Security Monitoring
-- Threat Detection
-- Incident Investigation
-- Log Analysis
-- Kusto Query Language (KQL)
+## Technical Skills & Tools
 
-### Identity & Cloud Security
-- Microsoft Entra ID
-- Identity and Access Management (IAM)
-- Microsoft Azure
-- Security and Compliance Fundamentals
-
-### Network Security & Analysis
-- TCP/IP
-- Network Traffic Analysis
-- Wireshark
-- Packet Analysis
-- Network Troubleshooting
-
-### Security Investigation
+### Cybersecurity Fundamentals
 - Phishing Email Analysis
-- Indicators of Compromise (IOCs)
-- Email Authentication (SPF, DKIM and DMARC)
-- Threat Intelligence
+- Network Traffic Analysis
+- Indicators of Compromise (IOC) Identification
+- Email Security: SPF, DKIM and DMARC
+- Threat Detection Fundamentals
+- Incident Investigation and Documentation
+
+### Networking
+- TCP/IP
+- DNS
+- ARP
+- HTTP/HTTPS
+- Network Protocol Analysis
+
+### Tools & Platforms
+- Wireshark
+- VirusTotal
+- Microsoft Azure
+- Microsoft Sentinel – Currently Learning
+- Splunk – Currently Learning (if applicable)
+
+### Cloud & Identity
+- Azure Fundamentals
+- Identity and Access Management Fundamentals
+- Security, Compliance and Identity Fundamentals
 
 ## Cybersecurity Projects
 
@@ -65,8 +65,9 @@ Designed and documented a basic home network topology, exploring network archite
 
 Actively developing cybersecurity skills through:
 - Microsoft Learn
-- Microsoft Sentinel Labs
+- Microsoft Sentinel 
 - TryHackMe
+- kali linux commands
 - Practical cybersecurity investigations and GitHub projects
 
 **Career Goal:** Junior SOC Analyst | SOC Analyst L1 | Cybersecurity Analyst
