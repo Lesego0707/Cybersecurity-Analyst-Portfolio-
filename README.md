@@ -11,16 +11,12 @@ Currently developing practical capabilities in Microsoft Sentinel, Splunk, Micro
 My goal is to contribute to a Security Operations Centre (SOC) by supporting threat detection, security monitoring, incident triage, and response.
 
 ## Certifications & Professional Development
+## Certifications & Professional Development
 
-### Microsoft Certifications
-- Microsoft Certified: Azure Fundamentals (AZ-900) — Passed
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) — [exam booked-25 Nov 2026]
-
-### ISC2 Certifications
-- Certified in Cybersecurity (CC) — [Update exam result]
-
-### Currently Studying
-- CompTIA Security+ (SY0-701)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** – Certified
+- **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)** – Exam scheduled for 19 November 2026
+- **ISC2 Certified in Cybersecurity (CC)** – Planned
+- CompTIA Security+ (SY0-701) - Planned
 
 ## Technical Skills
 
