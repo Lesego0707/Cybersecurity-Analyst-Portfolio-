@@ -2,74 +2,86 @@
 
 ## About Me
 
-Aspiring **SOC Analyst | Cybersecurity Analyst** with a growing foundation in security operations, network traffic analysis, threat detection, incident investigation, and cloud security.
+Aspiring SOC Analyst building foundational skills in cybersecurity, networking, cloud fundamentals, and security investigation.
 
-Building practical cybersecurity skills through hands-on projects, security labs, and industry-recognised certifications. Experienced in analysing network traffic using Wireshark, investigating suspicious email activity, and exploring security monitoring tools and cloud security concepts.
+I develop my skills through structured self-study and documented practical projects. My portfolio includes a simulated phishing email investigation, network traffic analysis using Wireshark, and Windows security log analysis using basic KQL queries.
 
-Currently developing practical capabilities in Microsoft Sentinel, Splunk, Microsoft Azure, Microsoft Entra ID, and Kusto Query Language (KQL).
+Through these projects, I practise reviewing evidence, identifying suspicious patterns, documenting findings, and recognising the limits of what the available information can establish.
 
-My goal is to contribute to a Security Operations Centre (SOC) by supporting threat detection, security monitoring, incident triage, and response.
+I am currently learning Microsoft Sentinel and continuing to strengthen my understanding of security monitoring, incident investigation, Microsoft security technologies, and cloud security.
+
+My career goal is to begin contributing to a Security Operations Centre through alert triage, security monitoring, investigation support, and clear technical documentation.
 
 ## Certifications & Professional Development
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** – Certified
-- **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)** – Exam scheduled for 19 November 2026
-- **ISC2 Certified in Cybersecurity (CC)** – Planned
-- CompTIA Security+ (SY0-701) - Planned
+### Certified
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
+### Upcoming
+- Microsoft Security, Compliance, and Identity Fundamentals (SC-900) — Exam scheduled for 25 November 2026
 
+### Planned Certification
+- CompTIA Security+ — Planned
+
+  
 ## Technical Skills & Tools
 
 ### Cybersecurity Fundamentals
-- Phishing Email Analysis
-- Network Traffic Analysis
-- Indicators of Compromise (IOC) Identification
-- Email Security: SPF, DKIM and DMARC
-- Threat Detection Fundamentals
-- Incident Investigation and Documentation
+
+- Simulated phishing email analysis
+- Email authentication fundamentals: SPF, DKIM, and DMARC
+- Network traffic analysis
+- Windows security event review
+- Basic identification and documentation of indicators of compromise (IOCs)
+- Incident investigation and technical reporting fundamentals
 
 ### Networking
-- TCP/IP
-- DNS
-- ARP
-- HTTP/HTTPS
-- Network Protocol Analysis
+- TCP/IP fundamentals
+- DNS and ARP
+- HTTP and HTTPS
+- Network protocol analysis
+
+### Querying & Data Analysis
+- Basic Kusto Query Language (KQL)
+- Filtering, counting, and summarising security events
+- Azure Data Explorer using synthetic test data
 
 ### Tools & Platforms
 - Wireshark
 - VirusTotal
-- Microsoft Azure
-- Microsoft Sentinel – Currently Learning
-- Splunk – Currently Learning (if applicable)
-
-### Cloud & Identity
-- Azure Fundamentals
-- Identity and Access Management Fundamentals
-- Security, Compliance and Identity Fundamentals
+- Microsoft Azure fundamentals
+- Azure Data Explorer
+- GitHub and Markdown documentation
+- Microsoft Sentinel — currently learning
 
 ## Cybersecurity Projects
 
 ### 1. Phishing Email Analysis
-Investigated a simulated phishing email by examining email headers, authentication results, sender information, and indicators of compromise. Documented findings and analyst recommendations.
-## Link: https://github.com/Lesego0707/Phishing-Email-Analysis/tree/main/phishing-email-investigation
+Investigated a simulated phishing email impersonating a Microsoft 365 security notification. Reviewed email headers, sender and Reply-To details, simulated SPF/DKIM/DMARC results, suspicious URLs, and relevant indicators. Documented findings and defensive recommendations. Basic KQL examples were written for learning and were not executed in a live SIEM.
 
-### 2. Wireshark Network Traffic Analysis
-Performed network traffic investigation using Wireshark and a malware-analysis PCAP exercise. Identified suspicious network activity, investigated endpoints, and used threat intelligence to support findings.
-## Link: https://github.com/Lesego0707/Network-Traffic-Analysis/tree/main
+[View Phishing Email Analysis](https://github.com/Lesego0707/Phishing-Email-Analysis)
 
-### 3. Home Network Topology Lab
-Designed and documented a basic home network topology, exploring network architecture, connectivity, and security considerations.
-## Link: https://github.com/Lesego0707/Home-Network-Topology-Lab
+### 2. Network Traffic Analysis
+Used Wireshark to investigate a training PCAP from Malware-Traffic-Analysis.net. Identified a host of interest, examined HTTP and TLS activity, and investigated an apparent executable transfer. Documented findings while distinguishing suspicious observations from confirmed compromise.
+
+[View Network Traffic Analysis](https://github.com/Lesego0707/Network-Traffic-Analysis)
+
+### 3. Windows Security Log Analysis
+Used basic KQL queries in Azure Data Explorer to review a synthetic dataset of Windows security events. Examined failed and successful logons, account creation, and special privilege activity, then documented the findings and limitations of the dataset.
+
+[View Windows Security Log Analysis](https://github.com/Lesego0707/Windows-Security-Log-Analysis)
+
+### 4. Home Network Topology Lab
+Created and documented a basic home network topology and explored how network traffic flows between devices and external services. Used Wireshark to support practical learning about networking and traffic analysis.
+
+[View Home Network Topology Lab](https://github.com/Lesego0707/Home-Network-Topology-Lab)
 
 ## Continuous Learning
 
-Actively developing cybersecurity skills through:
+Continuously developing my knowledge through:
 - Microsoft Learn
-- Microsoft Sentinel 
+- Microsoft Sentinel learning resources
 - TryHackMe
-- kali linux commands
-- Practical cybersecurity investigations and GitHub projects
+- Personal cybersecurity projects and investigation exercises
 
-**Career Goal:** Junior SOC Analyst | SOC Analyst L1 | Cybersecurity Analyst
-
-    
+**Career Focus:** Junior SOC Analyst | Security Operations Analyst | Cybersecurity Analyst
